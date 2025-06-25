@@ -32,12 +32,7 @@ int main()
     printf("&p3 = %p\n",&p3);
     printf("*a = %d\n",a);*/
     
-    /*1
-    11
-    21
-    1211
-    111221
-    task*/
+   
     
     
     
